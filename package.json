@@ -1,0 +1,24 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Challenges of Idwall",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ex-1": "node index1.js",
+    "ex-2": "node index2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reesilva/challenge.git"
+  },
+  "author": "Renato Biancalana da Silva <renato.biancalana.silva@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reesilva/challenge.git/issues"
+  },
+  "homepage": "https://github.com/reesilva/challenge.git#readme",
+  "dependencies": {
+    "string": "^3.3.3"
+  }
+}

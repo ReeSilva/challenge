@@ -1,0 +1,1 @@
+require('./challenge-1/index2')
